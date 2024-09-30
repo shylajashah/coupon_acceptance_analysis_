@@ -27,3 +27,6 @@ Similar to the analysis above for coupon for Bar, the driver attributes acceptin
 <img width="751" alt="Screenshot 2024-09-30 at 11 10 40 AM" src="https://github.com/user-attachments/assets/9eac8a16-84bd-4c9a-abfd-da2c8bf77a31">
 
 Overall, there are a lot of factors that go into determining high acceptance rate of coupon. Sunny weather and late afternoon has highest acceptance overall. Higher income, tendency towards higher visits to a business type, improves chances of acceptance to that category. Age, passenger also are a factor. Further analysis needs to be done on dependency of distances from businesses and other demographics factors of the driver.
+
+## Next Steps
+Further analysis of interdependence of driver demographics on the type of coupon needs to be done. Converting the categorical attributes to numerical values may provide value with correlation analysis.The direction and distance of the driver on the type of coupon accepted is pending. 
