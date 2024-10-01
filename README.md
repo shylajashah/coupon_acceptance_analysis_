@@ -30,3 +30,6 @@ Overall, there are a lot of factors that go into determining high acceptance rat
 
 ## Next Steps
 Further analysis of interdependence of driver demographics on the type of coupon needs to be done. Converting the categorical attributes to numerical values may provide value with correlation analysis.The direction and distance of the driver on the type of coupon accepted is pending. 
+
+## Link to the Jupyter Notebook
+https://github.com/shylajashah/coupon_acceptance_analysis_/blob/main/driver_coupon_acceptance.ipynb
